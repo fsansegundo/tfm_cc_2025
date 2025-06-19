@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## N-HITS Model
 
 + [NHits_AV.html](./models/NHITS/NHits_AV.html)
-+ [NHits_KaggleWPGD.html](./models/NHHITS/NHits_KaggleWPGD.html)
++ [NHits_KaggleWPGD.html](./models/NHITS/NHits_KaggleWPGD.html)
 
 
 ## TiDE Model
