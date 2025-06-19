@@ -17,3 +17,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 + [TiDE (Nixtla neuralforecast)](./models/TIDE/TiDE.html)
 
+## XGBoost model
+
++ [XGBoost_AV.html](./models/XGBoost/XGBoost_AV.html)
