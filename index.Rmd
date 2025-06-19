@@ -26,5 +26,20 @@ knitr::opts_chunk$set(echo = TRUE)
 + [PatchTST_KaggleWPGD.html](./models/PatchTST/PatchTST_KaggleWPGD.html)
 
 
+## N-HITS Model
+
++ [NHits_AV.html](./models/NHits/NHits_AV.html)
++ [NHits_KaggleWPGD.html](./models/NHits/NHits_KaggleWPGD.html)
+
+
+## TiDE Model
+
++ [TiDE_AV.html](./models/TiDE/TiDE_AV.html)
++ [TiDE_KaggleWPGD.html](./models/TiDE/TiDE_KaggleWPGD.html)
+
+
+
+
+
 
 
