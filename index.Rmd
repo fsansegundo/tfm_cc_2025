@@ -25,6 +25,12 @@ knitr::opts_chunk$set(echo = TRUE)
 + [PatchTST_AV.html](./models/PatchTST/PatchTST_AV.html)
 + [PatchTST_KaggleWPGD.html](./models/PatchTST/PatchTST_KaggleWPGD.html)
 
+## TimeXer model
+
++ [TimeXer_AV.html](./models/TimeXer/TimeXer_AV.html)
++ [TimeXer_KaggleWPGD.html](./models/TimeXer/TimeXer_KaggleWPGD.html)
+
+
 
 ## N-HITS Model
 
@@ -34,8 +40,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## TiDE Model
 
-+ [TiDE_AV.html](./models/TiDE/TiDE_AV.html)
-+ [TiDE_KaggleWPGD.html](./models/TiDE/TiDE_KaggleWPGD.html)
++ [TiDE_AV.html](./models/TIDE/TiDE_AV.html)
++ [TiDE_KaggleWPGD.html](./models/TIDE/TiDE_KaggleWPGD.html)
+
+
+
 
 
 
