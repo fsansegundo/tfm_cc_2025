@@ -14,10 +14,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Model Results
 
-
-+ [TiDE (Nixtla neuralforecast)](./models/TIDE/TiDE.html)
-
 ## XGBoost model
 
 + [XGBoost_AV.html](./models/XGBoost/XGBoost_AV.html)
 + [XGBoost_KaggleWPGD.html](./models/XGBoost/XGBoost_KaggleWPGD.html)
+
+
+## PatchTST model
+
++ [PatchTST_AV.html](./models/PatchTST/PatchTST_AV.html)
++ [PatchTST_KaggleWPGD.html](./models/PatchTST/PatchTST_KaggleWPGD.html)
+
+
+
+
