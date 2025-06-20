@@ -14,36 +14,54 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Model Results
 
-## XGBoost model
+## Statistical & Machine Learning Models 
+
+### Arima Model
+
+
+### XGBoost model
 
 + [XGBoost_AV.html](./models/XGBoost/XGBoost_AV.html)
 + [XGBoost_KaggleWPGD.html](./models/XGBoost/XGBoost_KaggleWPGD.html)
 
+## RNN Models
 
-## PatchTST model
+### LSTM model
+
++ [LSTM_AV.html](./models/LSTM/LSTM_AV.html)
++ [LSTM_KaggleWPGD.html](./models/LSTM/LSTM_KaggleWPGD.html)
+
+
+## Transformer Based Models
+
+### PatchTST model
 
 + [PatchTST_AV.html](./models/PatchTST/PatchTST_AV.html)
 + [PatchTST_KaggleWPGD.html](./models/PatchTST/PatchTST_KaggleWPGD.html)
 
-## TimeXer model
+### TimeXer model
 
 + [TimeXer_AV.html](./models/TimeXer/TimeXer_AV.html)
 + [TimeXer_KaggleWPGD.html](./models/TimeXer/TimeXer_KaggleWPGD.html)
 
 
-## N-HITS Model
+### MLP Based Models
+
+### N-HITS Model
 
 + [NHits_AV.html](./models/NHITS/NHits_AV.html)
 + [NHits_KaggleWPGD.html](./models/NHITS/NHits_KaggleWPGD.html)
 
 
-## TiDE Model
+### TiDE Model
 
 + [TiDE_AV.html](./models/TIDE/TiDE_AV.html)
 + [TiDE_KaggleWPGD.html](./models/TIDE/TiDE_KaggleWPGD.html)
 
 
-## RMoK Model
+## KAN Based Models
+
+### RMoK Model
 
 + [RMoK_AV.html](./models/RMoK/RMoK_AV.html)
 + [RMoK_KaggleWPGD.html](./models/RMoK/RMoK_KaggleWPGD.html)
