@@ -18,6 +18,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Arima Model
 
++ [ARIMA_AV.html](./models/Arima/AutoArima_AV)
++ [AutoArima_KaggleWPGD.html](./models/Arima/AutoArima_KaggleWPGD.html)
+
 
 ### XGBoost model
 
