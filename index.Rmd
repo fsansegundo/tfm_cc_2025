@@ -70,7 +70,14 @@ knitr::opts_chunk$set(echo = TRUE)
 + [RMoK_KaggleWPGD.html](./models/RMoK/RMoK_KaggleWPGD.html)
 
 
+# Conda environments
 
+## Linux
+
+## Apple Silicon
+
++ [tfm_cc_MacM2.yml](./environments/tfm_cc_MacM2.yml)
++ [tfm_cc_NIXTLA_MacM2.yml](./environments/tfm_cc_NIXTLA_MacM2.yml)
 
 
 
