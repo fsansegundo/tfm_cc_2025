@@ -1,6 +1,9 @@
 ---
 title: "Forecasting Models"
-output: html_document
+format:
+  html:
+    toc: true
+    toc-location: left
 date: "`r Sys.Date()`"
 ---
 
